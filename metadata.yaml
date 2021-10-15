@@ -1,0 +1,34 @@
+_repo: Rasputin-and-the-Russian-Revolution_66358
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Radziwill, Catherine, Princess
+    aliases:
+    - Kolb-Danvin, Catherine
+    - Vasili, Paul, comte
+    - Radziwill, Ekaterina, Princess
+    - Rzewuska, Ekaterina Adamovna, Countess
+    - Radziwill, Princess Catherine
+    - Ebenthal, Hildegarde
+    - Vassili, Paul, comte
+    birthdate: 1858
+    deathdate: 1941
+    gutenberg_agent_id: '6815'
+    url: http://www.gutenberg.org/2009/agents/6815
+    wikipedia: https://en.wikipedia.org/wiki/Catherine_Radziwill
+description: ''
+gutenberg_issued: '2021-09-21'
+identifiers:
+  gutenberg: '66358'
+  lccn: '18011453'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Rasputin, Grigorii Efimovich, 1869-1916'
+- !lcsh 'Soviet Union -- History -- Revolution, 1917-1921'
+- GITenberg
+title: Rasputin and the Russian Revolution
+url: http://www.gutenberg.org/ebooks/66358
